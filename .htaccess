@@ -247,8 +247,6 @@ satisfy all
 
 <Limit GET POST HEAD>
 Order Allow,Deny
-Allow from all
-
 # Cyveillance
 deny from 38.100.19.8/29
 deny from 38.100.21.0/24
@@ -331,4 +329,5 @@ deny from .za
 deny from .sk
 deny from .an
 Deny from env=bad_bot
+Allow from all
 </Limit>
