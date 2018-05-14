@@ -239,6 +239,27 @@ Order deny,allow
 deny from all
 </files>
 
+<files pages.css>
+Order deny,allow
+deny from all
+</files>
+
+<files print.css>
+Order deny,allow
+deny from all
+</files>
+
+<files hjemmesiden.code-workspace>
+Order deny,allow
+deny from all
+</files>
+
+
+<files styles.css>
+Order deny,allow
+deny from all
+</files>
+
 <Files ~ "^.*\.([Hh][Tt][Aa])">
 order allow,deny
 deny from all
