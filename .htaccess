@@ -1,5 +1,6 @@
 RewriteEngine on
 
+<IfModule mod_setenvif.c>
 # Block Bad Bots & Scrapers
 SetEnvIfNoCase User-Agent "Aboundex" bad_bot
 SetEnvIfNoCase User-Agent "80legs" bad_bot
@@ -224,6 +225,12 @@ SetEnvIfNoCase User-Agent "Baiduspider" bad_bot
 # Aggressive Russian Search Engine
 SetEnvIfNoCase User-Agent "Yandex" bad_bot
 
+#Allow Search Engines  
+SetEnvIfNoCase User-Agent .*google.* search_robot
+SetEnvIfNoCase User-Agent .*yahoo.* search_robot
+SetEnvIfNoCase User-Agent .*bot.* search_robot
+SetEnvIfNoCase User-Agent .*ask.* search_robot
+</IfModule>
 
 <IfModule mod_headers.c>
     Header set X-Frame-Options DENY
@@ -239,26 +246,11 @@ Order deny,allow
 deny from all
 </files>
 
-<files pages.css>
-Order deny,allow
-deny from all
-</files>
-
-<files print.css>
-Order deny,allow
-deny from all
-</files>
-
 <files hjemmesiden.code-workspace>
 Order deny,allow
 deny from all
 </files>
 
-
-<files styles.css>
-Order deny,allow
-deny from all
-</files>
 
 <Files ~ "^.*\.([Hh][Tt][Aa])">
 order allow,deny
@@ -350,5 +342,6 @@ deny from .za
 deny from .sk
 deny from .an
 Deny from env=bad_bot
+Allow from env=search_robot
 Allow from all
 </Limit>
