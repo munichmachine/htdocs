@@ -1,1 +1,1 @@
-AddHandler cgi-script .php
+Options -Indexes
