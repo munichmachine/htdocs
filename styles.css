@@ -21,7 +21,7 @@ line-height: 18px;
 /* layout */
 
 #wrapper {
-width: 940px;
+width: 1024px;
 margin: 0 auto;
 margin-top: 5px;
 margin-bottom: 5px;
@@ -30,21 +30,21 @@ margin-bottom: 5px;
 }
 
 nav {
-width: 940px;
+width: 1024px;
 height: 50px;
 margin: 0 auto;
 background: #F8F4EA;
 }
 
 header {
-width: 940px;
+width: 1024px;
 height: 200px;
 margin: 0 auto;
 background: #fff url(images/headerimg.png) no-repeat left top;
 }
 
 #main {
-width: 940px;
+width: 1024px;
 margin: 0 auto;
 padding-top: 20px;
 background: #F8F4EA;
@@ -72,7 +72,7 @@ width: 180px;
 }
 
 footer {
-width: 940px;
+width: 1024px;
 margin: 0 auto;
 clear: both;
 }
