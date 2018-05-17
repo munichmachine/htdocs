@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
-	<english lang="en"><![CDATA[<table
- style="text-align: left; width: 380px; height: 60px;" border="0"
- cellpadding="2" cellspacing="2">
+	<english lang="en"><![CDATA[<p>My book will be built upon technical facts and a dramatized fictional story based on reports and police journals.</p>
+		<p>I'm going to write a complete storyboard to accompany the book. The storyboard will be written in English, and the book will follow soon after the Norwegian publication date.</p>
+		<p>The publishing date will be in somewhere of 2019-2021</p>
+		<p>The research and character building will be the biggest task ahead. They will be built on real people living in and around the city, and to get a reality that's spot on, will take the better part of the time spent.</p>
+		<p>Here you can see the development of the book</p>
+    <br>
+<table style="text-align: left; width: 380px; height: 60px;" border="0" cellpadding="2" cellspacing="2">
   <tbody>
     <tr>
       <td style="width: 80px;">12. may 2018</td>
@@ -18,9 +22,12 @@
 	
 	]]>
 	</english>
-	<norwegian lang="no"><![CDATA[<table
- style="text-align: left; width: 380px; height: 60px;" border="0"
- cellpadding="2" cellspacing="2">
+	<norwegian lang="no"><![CDATA[<p>Jeg kommer til å skrive en komplett storyboard til å følge boken. Dreieboken vil bli skrevet på engelsk, og boken vil følge kort tid etter den norske utgivelsesdatoen.</p>
+	<p>Og publiseringsdatoen vil være på et sted i 2019-2021</p>
+		<p>Forsknings-og å skape historisk korrekte karakterer vil bli den største oppgaven. De vil bli bygget på virkelige mennesker som levde i og rundt byen, og for å få en virkelighet som er troverdig, vil ta den største delen av arbeidet.</p>
+		<p>Her kan du se utviklingen av boken</p>
+   <br>
+  <table style="text-align: left; width: 380px; height: 60px;" border="0" cellpadding="2" cellspacing="2">
   <tbody>
     <tr>
       <td style="width: 80px;">12. mai 2018</td>
