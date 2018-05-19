@@ -15,7 +15,7 @@ return xhttp.responseXML;
 
 function read_eng()
 	{
-		xmlDoc=loadXMLDoc("../xml/political.xml");
+		xmlDoc=loadXMLDoc("../xml/politics.xml");
 
 		x=xmlDoc.getElementsByTagName("english")[0]
 		y=x.childNodes[0];

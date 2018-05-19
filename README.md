@@ -13,5 +13,5 @@ The publishing date will be in somewhere of 2019-2021
 The research and character building will be the biggest task ahead. They will be built on real people living in and 
 around the city, and to get a reality that's spot on, will take the better part of the time spent.
 
-I will post the development and general information about my findings. My website is http://www.knivedalen.net.
+I will post the development and general information about my findings. My website is https://www.knivedalen.net.
 You will it under the menu selection "My book"
