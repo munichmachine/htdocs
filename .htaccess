@@ -1,3 +1,19 @@
+<IfModule mod_rewrite.c>
+RewriteOptions inherent 
+RewriteEngine on
+RewriteBase /
+RewriteCond %{HTTPS} off
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+Header add Content-Security-Policy upgrade-insecure-requests
+</IfModule>
+
+<Directory />
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride All
+    Order deny,allow
+    Require all granted
+</Directory>
+
 <IfModule mod_setenvif.c>
   <IfModule mod_headers.c>
     BrowserMatch MSIE ie
@@ -8,12 +24,7 @@
   Header append Vary User-Agent
 </IfModule>
 
-RewriteEngine on
-RewriteCond %{HTTPS} off
-RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-Header add Content-Security-Policy upgrade-insecure-requests
-
-# Block Bad Bots & Scrapers
+<IfModule mod_setenvif.c>
 SetEnvIfNoCase User-Agent "Aboundex" bad_bot
 SetEnvIfNoCase User-Agent "80legs" bad_bot
 SetEnvIfNoCase User-Agent "360Spider" bad_bot
@@ -242,6 +253,7 @@ SetEnvIfNoCase User-Agent .*google.* search_robot
 SetEnvIfNoCase User-Agent .*yahoo.* search_robot
 SetEnvIfNoCase User-Agent .*bot.* search_robot
 SetEnvIfNoCase User-Agent .*ask.* search_robot
+</IfModule>
 
 <IfModule mod_headers.c>
     Header set X-Frame-Options DENY
@@ -249,8 +261,6 @@ SetEnvIfNoCase User-Agent .*ask.* search_robot
 	Header always append X-Frame-Options SAMEORIGIN
 	Header set X-Content-Type-Options nosniff
 </IfModule>
-
-Options All -Indexes
 
 <files .gitattributes>
 Order deny,allow
@@ -262,12 +272,6 @@ Order deny,allow
 deny from all
 </files>
 
-
-<Files ~ "^.*\.([Hh][Tt][Aa])">
-order allow,deny
-deny from all
-satisfy all
-</Files>
 
 <Limit GET POST HEAD>
 Order Allow,Deny
