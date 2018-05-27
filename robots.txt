@@ -36,4 +36,4 @@ Disallow:
 Disallow: /xml/
 Disallow: /js/
 Disallow: /images/
-Sitemap: https://www.knivedalen.net/sitemap.xml
+Sitemap: https://localhost/sitemap.xml
