@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
-	<english lang="en"><![CDATA[<h2>Telia summoned&nbsp; in
-Sweden - wants blockade of The Pirate Bay</h2>
+	<english lang="en"><![CDATA[<h2>Roskilde municipality, 107
+servers went down for counting: The municipality lost 82,000 public
+documents</h2>
+Saturday 2 June 2018<br />
+<br />
+<h4>The error should have occurred
+in a storage rig provided by Hitachi.</h4>
+Two errors in two minutes<br />
+<br />
+First the main desk went down. So two minutes later, the backup
+solution went down with the same mistake, KMD states in a document that
+the Danish online newspaper has accessed.<br />
+<br />
+- It all resulted in 107 servers going down for counting. Three of
+these belonged to the municipality of Roskilde, named in the document.
+It was only the Danish municipality that lost data in the incident.<br />
+<br />
+Error in code line<br />
+<br />
+The data loss affected 16 325 inhabitants. 10 179 of these had active
+cases with the municipality, where the case papers were lost.<br />
+<br />
+According to KMD, there should be an error in a code line that made
+sure that the backup did not work properly.<br />
+<br />
+The reason why this has not been discovered is that the code error,
+which has been found retrospectively, has made it seem as if the
+systems worked as they should, is stated in the statement.<br />
+<br />
+This code error thus made sure that no backup of the data has been
+produced and they are lost forever, writes Version2.<br />
+<br />
+<h2>Telia summoned&nbsp; in Sweden - wants blockade of The Pirate Bay</h2>
 <h4>Wednesday, May 30, 2018</h4>
 But the telecommunications company disputes the claim.<br />
 <br />
@@ -159,8 +190,42 @@ I'm using this extension myself. <br />
 <br />
 	]]>
 	</english>
-	<norwegian lang="no"><![CDATA[<h2>Telia stevnes i Sverige &ndash; &oslash;nsker blokkering av The
-Pirate Bay</h2>
+	<norwegian lang="no"><![CDATA[<h2>Roskilde kommune, 107 servere
+gikk ned for telling: Kommunen mistet 82.000 offentlige dokumenter</h2>
+L&oslash;rdag 2 juni 2018<br />
+<h4>Feilen skal ha
+oppst&aring;tt i en lagringsrigg levert av Hitachi.</h4>
+To feil p&aring; to minutter<br />
+<br />
+F&oslash;rst gikk hoveddisken ned. S&aring; to minutter
+etterp&aring; gikk ogs&aring; reservel&oslash;sningen ned
+med samme feil, opplyser KMD i et dokument den danske nettavisen har
+f&aring;tt tilgang til.<br />
+<br />
+&ndash; Det hele f&oslash;rte til at 107 servere gikk ned for
+telling. Tre av disse tilh&oslash;rte Roskilde kommune, heter det i
+dokumentet. Det var bare den danske kommunen som mistet data i
+hendelsen. <br />
+<br />
+Feil i kodelinje<br />
+<br />
+Datatapet ber&oslash;rte 16 325 innbyggere. 10 179 av disse hadde
+aktive saker med kommunen, hvor sakspapirene alts&aring; gikk tapt.
+<br />
+<br />
+If&oslash;lge KMD skal det ha v&aelig;rt en feil i en kodelinje
+som s&oslash;rget for at backupen ikke fungerte som den skulle. <br />
+<br />
+Grunnen til at dette ikke har blitt oppdaget er at kodefeilen, som har
+blitt funnet i ettertid, har f&aring;tt det til &aring; se ut
+som om systemene har fungert som de skulle, heter det i
+redegj&oslash;relsen.<br />
+<br />
+Denne nevnte kodefeilen har dermed s&oslash;rget for at det ikke er
+produsert noen sikkerhetskopier av dataene, og de er tapt for alltid,
+skriver Version2.<br />
+<br />
+<h2>Telia stevnes i Sverige &ndash; &oslash;nsker blokkering av The Pirate Bay</h2>
 <h4>Onsdag 30 mai 2018</h4>
 &nbsp;Men
 teleselskapet bestrider kravet.<br />
