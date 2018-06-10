@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
 	<english lang="en"><![CDATA[<h5>Pages here will be different from the Norwegian page, because local things isn't that interesting </h5>
+<h2>A few updates on a Sunday.</h2>
+<h4>Sunday, June 10, 2018</h4>
+First, I lost my media machine in early May. So a week ago, I lost one
+of my three NAS (network drives). Then the main server went down
+because the system battery was dead. So now I've lost a lot of movies,
+music and e-books. My documents on emails from bulletins were
+fortunately on my PC and backup on another NAS.<br />
+<br />
+But it's tough for someone who does not have that high income. I have
+to save for a whole year to get a new server. Fortunately, I have a
+server with lots of RAM running 3 virtual servers with development
+software. It's a bit slow, but I'll do what I'm going to do.<br />
+<br />
+I currently have 2 NAS and two servers, plus my own PC. Then I have
+three laptops. I have a laptop in the toilet because I have such a slow
+stomach. Then I have a laptop on the living room so I can watch TV
+shows in reprise and those I did not see. The third laptop is in the
+office of the organization Kompetansen
+I am a member of.<br />
+<br />
+There are i5 and i7 processors in all machines with enough RAM to run
+all applications including virtual machines. So I can not complain
+about the machine park, it's up to date and I run the following
+operating systems:<br />
+<br />
+Windows 2012 Server, RRAS, DNS, DHCP, IIS7, PHP, Dell PowerEdge T20<br />
+Windows 10, VirtualBox with 3 virtual machines self-contained<br />
+Windows 10, my PC self-built<br />
+<br />
+My two NAS are:<br />
+ZyXel NSA325 v2 2TB<br />
+LaCie 2 Big 2 TB<br />
+<br />
+In the stationary machines there are a total of 12 TB. In two virtual
+machines, I have both MySQL and MariaDB databases. This to compare the
+differences. The third virtual machine runs Apache web server. I have a
+web server in the Dell machine too, it is Internet Information Server
+and has PHP as FastCGI script.<br />
+<br />
+I try to go to Joomla on my website, but it's not easy with bilingual
+network configuration. Joomla is a content system for web pages and is
+easy to get started with. It requires database, preferably MySQL. So
+you must have a web hotel with database included to install Joomla.<br />
+<br />
+Well, I'll see a movie before I'm going to sleep. That's an action
+movie I think, look a little now and the rest in bed ........<br />
+<br />
+(I have gigabit networks both wired and wireless, even my Sony Xperia X
+supports gigabit wireless. My tablet supports N-standard 150Mbit only,
+but it's enough to watch HD movies in bed before I fall asleep.)<br />
+<br />
 <h2>Me and Lyrica</h2>
 <h4>Monday, June 4, 2018</h4>
 First, what Lyrica helps, cut and paste from the
@@ -161,6 +212,69 @@ More about this later<br>
 	]]>
 	</english>
 <norwegian lang="no"><![CDATA[<h5>Sider her vil være forskjellige fra den norske siden, fordi lokale ting ikke er så interessante</h5>
+<h2>Litt oppdateringer
+p&aring; en s&oslash;ndag.</h2>
+<h4>S&oslash;ndag 10 juni 2018</h4>
+F&oslash;rst mistet jeg media-maskinen i begynnelsen av mai.
+S&aring; for en uke siden mistet jeg en av mine tre NAS
+(nettverksdisker). S&aring; gikk hovedserveren ned p&aring;
+grunn av at system-batteriet var d&oslash;dt. S&aring;
+n&aring; har jeg mistet mange filmer, musikk og e-b&oslash;ker.
+Mine dokumenter p&aring; PDF-filer fra offeltige epost l&aring;
+heldigvis p&aring; min PC og backup p&aring; ett annet NAS.<br />
+<br />
+Men det er t&oslash;ft for en som ikke har s&aring;
+h&oslash;y inntekt. Jeg m&aring; spare i ett helt &aring;r
+for &aring; f&aring; en ny server. Jeg har heldvis en server
+med masse RAM som kj&oslash;rer 3 virituelle servere med
+utviklingsprogramvare. Det g&aring;r litt tregt, men jeg
+f&aring;r gjort det jeg skal.<br />
+<br />
+Jeg har per dags dato 2 NAS og to servere, pluss min egen PC.
+S&aring; har jeg tre b&aelig;rbare. Jeg har en b&aelig;rbar
+p&aring; toalettet, fordi jeg har s&aring; treg mage.
+S&aring; har jeg en b&aelig;rbar p&aring; stuebordet,
+s&aring; jeg kan se TV-programmer i reprise og de jeg ikke fikk
+sett. Den tredje b&aelig;rbare er p&aring; kontoret til
+organisasjonen Kompetansen jeg er medlem av. <br />
+<br />
+Det er i5 og i7 prosessorer i alle maskiner med nok RAM til &aring;
+kj&oslash;re alle applikasjoner inkludert virituelle maskiner.
+S&aring; jeg kan ikke klage p&aring; maskinparken, den er
+oppdatert og jeg kj&oslash;rer f&oslash;lgende operativsystemer:<br />
+<br />
+Windows 2012 Server, RRAS, DNS, DHCP, IIS7, PHP, Dell PowerEdge T20<br />
+Windows 10, VirtualBox med 3 virtuelle maskiner selvbygg<br />
+Windows 10, min PC selvbygg <br />
+<br />
+Mine to NAS er:<br />
+ZyXel NSA325 v2 2 TB<br />
+LaCie 2 Big 2 TB<br />
+<br />
+I de stasjon&aelig;re maskinene sitter totalt 12 TB. I to virtuelle
+maskiner har jeg b&aring;de MySQL og MariaDB databaser. Dette for
+&aring; sammenligne forskjellene. Den tredje virtuelle maskinen
+kj&oslash;rer Apache web server. Jeg har en web server i Dell
+maskinen ogs&aring;, det er Internet Information Server og har PHP
+som FastCGI script. <br />
+<br />
+Jeg fors&oslash;ker &aring; g&aring; over til Joomla
+p&aring; min hjemmeside, men det er ikke lett med
+tospr&aring;klig nettkonfigurasjon. Joomla er et innholdssystem for
+nettsider og er enkelt &aring; komme i gang med. Det krever
+database, helst MySQL. S&aring; du m&aring; ha et web-hotell
+med database inkludert for &aring; installere Joomla.<br />
+<br />
+N&aring; skal jeg se en film f&oslash;r jeg skal sove. Det blie
+en actionfilm tror jeg,ser litt n&aring; og resten i sengen........<br />
+<br />
+(Jeg har gigabit nettverk b&aring;de kablet og
+tr&aring;dl&oslash;st, selv min Sony Xperia X
+st&oslash;tter gigabit tr&aring;dl&oslash;st. Mitt
+nettbrett st&oslash;tter kun N-standard 150Mbit. Men det er nok til
+til &aring; se p&aring; HD film i sengen f&oslash;r jeg
+sovner.) <br />
+<br />
 <h2>Meg og Lyrica</h2>
 <h4>Mandag 4 juni 2018</h4>
 F&oslash;rst litt om hva Lyrica hjelper mot, klipp og limt fra

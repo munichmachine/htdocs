@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
-	<english lang="en"><![CDATA[<h2>Microsoft pays 60,1 billion
+	<english lang="en"><![CDATA[<h2>Intel's 28-core sample
+processor was highly overclocked</h2>
+<h4>Sunday, June 10, 2018</h4>
+"A pure forget about" not informing journalists, Intel claims.<br />
+<br />
+Updated 8.6: According to Toms Hardware, Intel has now admitted that
+the 28-core processor running at 5 GHz during the Computex
+demonstration was overclocked to the extreme using an extremely
+powerful cooling solution. Intel claims it was an "overlook" that they
+did not inform journalists about this.<br />
+<br />
+As is known, AMD only announced the same day its new 32-core
+Threadripper. Do not believe Intel is shaking a bit in my legs at the
+moment?<br />
+<br />
+Intel just launched its first processor at a clock speed of over 5 GHz,
+and the milestones will only continue to fall forward if we believe the
+company. By the end of the year, Intel plans to release a new extreme
+processor with crazy 28 kernels.<br />
+<br />
+The upcoming processor has not yet been named, but was presented at the
+company's Computex press conference this week. During the
+demonstration, one saw how the 28 cores worked for a total of 7334
+points in Cinebench R15 with an average frequency of 5 GHz.<br />
+<br />
+By comparison, our Threadripper 1950X achieved 16 kernels that cost
+almost 9000 kroner 3001 points in the same test. Intel's most powerful
+current extremist processor, Core i9-7980XE, manages approximately 3400
+points with its 18 kernels. However, this costs 20,000 kroner.<br />
+<br />
+Intel has not said anything about a specific launch date, but claims
+that the 28-core will be on the market by the end of the fourth
+quarter, which indicates the last three months of the year. We also do
+not know if the processor was overclocked to 5 GHz during the
+presentation, or whether it would run at a base speed of 5 GHz out of
+the box. (Now we know it - it was hotly overclocked!)<br />
+<br />
+As power consumption will undoubtedly be high, there will be high
+demands on the motherboard to accommodate this new processor. However,
+it is not known whether the processor is compatible with current
+motherboards, but in that case, the LGA2066 plot (X299 chipset) is most
+relevant. Intel also has yet to say if whether the processor consists
+of one or two processor chips. AMD's Threadripper is known as two
+processors clustered into a "package."<br />
+<br />
+<h2>Microsoft pays 60,1 billion
 NOK for company</h2>
 <h4>Monday, June 4, 2018</h4>
 Microsoft announces Monday that it has entered into an agreement to
@@ -253,7 +298,61 @@ I'm using this extension myself. <br />
 <br />
 	]]>
 	</english>
-	<norwegian lang="no"><![CDATA[<h2>Microsoft betaler 60,1
+	<norwegian lang="no"><![CDATA[<h2>Intels monsterprosessor med 28
+kjerner var kraftig overklokket</h2>
+<h4>S&oslash;ndag 10 juni 2018</h4>
+&laquo;En ren forglemmelse&raquo; &aring; ikke informere
+journalistene, hevder Intel. <br />
+<br />
+Oppdatert 8.6: If&oslash;lge Toms Hardware har Intel n&aring;
+innr&oslash;mmet at prosessoren med 28 kjerner som
+kj&oslash;rte p&aring; 5 GHz under Computex-demonstrasjonen var
+overklokket til det ytterste ved hjelp av en ekstremt kraftig
+kj&oslash;lel&oslash;sning. Intel hevder det var en
+&laquo;forglemmelse&raquo; at de ikke informerte
+oppm&oslash;tte journalister om dette. <br />
+<br />
+Som kjent presenterte AMD bare timer senere samme dag sin nye
+Threadripper med 32 kjerner. Mon tro om ikke Intel skjelver litt i
+beina for tiden?<br />
+<br />
+Intel lanserte akkurat sin f&oslash;rste prosessor med en
+klokkehastighet p&aring; over 5 GHz, og milep&aelig;lene vil
+bare fortsette &aring; falle fremover skal vi tro selskapet. Innen
+utgangen av &aring;ret planlegger nemlig Intel &aring; slippe
+en ny ekstremprosessor med vanvittige 28 kjerner. <br />
+<br />
+Den kommende prosessoren har ikke f&aring;tt noe navn
+enn&aring;, men ble vist frem under selskapets
+Computex-pressekonferanse denne uken. Under demonstrasjonen fikk man se
+hvordan de 28 kjernene jobbet seg frem til hele 7334 poeng i Cinebench
+R15 med en snittfrekvens p&aring; 5 GHz.<br />
+<br />
+Til sammenligning oppn&aring;dde v&aring;r Threadripper 1950X
+med 16 kjerner som koster nesten 9000 kroner 3001 poeng i samme test.
+Intels kraftigste n&aring;v&aelig;rende ekstremprosessor, Core
+i9-7980XE, klarer p&aring; sin side omtrent 3400 poeng med sine 18
+kjerner. Denne koster imidlertid 20 000 kroner. <br />
+<br />
+Intel har ikke sagt noe om en konkret lanseringsdato, men ser for seg
+at 28-kjerneren vil v&aelig;re i handelen innen utgangen av fjerde
+kvartal, som alts&aring; viser til &aring;rets tre siste
+m&aring;neder. Vi vet heller ikke om prosessoren var overklokket
+til 5 GHz under presentasjonen, eller om den vil kj&oslash;re med
+en basehastighet p&aring; 5 GHz ut av esken.&nbsp;
+(N&aring; vet vi det &ndash; den var heftig overklokket!)<br />
+<br />
+Da str&oslash;mforbruket utvilsomt blir h&oslash;yt vil det nok
+stilles h&oslash;ye krav til hovedkortet som skal huse denne
+nyheten. Det er imidlertid ikke kjent hvorvidt prosessoren blir
+kompatibel p&aring; n&aring;v&aelig;rende hovedkort, men i
+s&aring; fall er det LGA2066-sokkelen (X299-brikkesettet) som er
+mest relevant. Intel har ogs&aring; til gode &aring; svare
+p&aring; om prosessoren best&aring;r av &eacute;n eller to
+prosessorbrikker. AMDs Threadripper er som kjent to prosessorer klemt
+sammen i en &laquo;pakke&raquo;. <br />
+<br />
+<h2>Microsoft betaler 60,1
 milliarder NOK for selskap</h2>
 <h4>Mandag 4 juni 2018</h4>
 Microsoft opplyser mandag at det har inng&aring;tt en avtale om
