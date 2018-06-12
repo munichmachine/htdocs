@@ -562,18 +562,18 @@
 } 
 
 #mb9kaxebul_table div.arrow { 
-  background-image: url(ebab_mb9kax_d.png); 
+  background-image: url("/menu/nor/ebab_mb9kax_d.png"); 
   background-repeat: no-repeat; 
   background-position: right center; 
   height: 100%; 
 } 
 
 #mb9kaxebul_table li:hover div.arrow, #mb9kaxebul_table li.active div.arrow, #mb9kaxebul_table li.expanded div.arrow, #mb9kaxebul_table li.itemhot div.arrow { 
-  background-image: url(ebab_mb9kax_d2.png); 
+  background-image: url("/menu/nor/ebab_mb9kax_d2.png"); 
 } 
 
 #mb9kaxebul_table ul li a.with_arrow, #mb9kaxebul_table_burger ul li a div.with_arrow { 
-  background-image: url(ebab_mb9kax_c.png); 
+  background-image: url("/menu/nor/ebab_mb9kax_c.png"); 
   background-repeat: no-repeat; 
   background-position: right center; 
   padding-right: 20px; 
@@ -581,7 +581,7 @@
 
 #mb9kaxebul_table ul li a.with_arrow:hover, #mb9kaxebul_table ul li:hover > a.with_arrow, #mb9kaxebul_table ul li.subexpanded > a.with_arrow, 
 #mb9kaxebul_table_burger ul li a:hover div.with_arrow, #mb9kaxebul_table_burger ul li:hover > a div.with_arrow, #mb9kaxebul_table_burger ul li.subexpanded > a div.with_arrow { 
-  background-image: url(ebab_mb9kax_c2.png); 
+  background-image: url("/menu/nor/ebab_mb9kax_c2.png"); 
 } 
 
 #mb9kaxebul_table_burger li.hamburger_button a div.hamburger_icon { 
@@ -606,10 +606,6 @@
 #mb9kaxebul_table_burger a:hover div.hamburger_close_button { 
   background-image: url('data:image/svg+xml;charset=utf-8,%3C?xml%20version=%221.0%22%20encoding=%22UTF-8%22%20standalone=%22no%22?%3E%20%3Csvg%20%20%20%20xmlns:dc=%22http://purl.org/dc/elements/1.1/%22%20%20%20%20xmlns:cc=%22http://creativecommons.org/ns%23%22%20%20%20%20xmlns:rdf=%22http://www.w3.org/1999/02/22-rdf-syntax-ns%23%22%20%20%20%20xmlns:svg=%22http://www.w3.org/2000/svg%22%20%20%20%20xmlns=%22http://www.w3.org/2000/svg%22%20%20%20%20xml:space=%22preserve%22%20%20%20%20viewBox=%220%200%2024%2024%22%20%20%20%20version=%221.0%22%20%20%20%20id=%22Layer_1%22%20%20%20%20enable-background=%22new%200%200%2024%2024%22%3E%3Cpath%20style=%22stroke:%23000000;fill:%23000000;%22%20d=%22M23.954%2021.03l-9.184-9.095%209.092-9.174-2.832-2.807-9.09%209.179-9.176-9.088-2.81%202.81%209.186%209.105-9.095%209.184%202.81%202.81%209.112-9.192%209.18%209.1z%22/%3E%3C/svg%3E%20'); 
 } 
-#mb9kaxebul_table li a.button_4, #mb9kaxebul_table li div a.button_4 { 
-  padding-right: 30px; 
-} 
-
 #mb9kaxebul_table li a.button_7, #mb9kaxebul_table li div a.button_7 { 
   padding-right: 30px; 
 } 
