@@ -13,11 +13,11 @@ xhttp.send();
 return xhttp.responseXML;
 } 
 
-function read_eng()
+function read_nor()
 	{
-		xmlDoc=loadXMLDoc("../xml/tech.xml");
+		xmlDoc=loadXMLDoc("../xml/histories.xml");
 
-		x=xmlDoc.getElementsByTagName("english")[0]
+		x=xmlDoc.getElementsByTagName("norwegian")[0]
 		y=x.childNodes[0];
 		document.write(y.nodeValue);
-  }
+	}
