@@ -15,6 +15,7 @@
               <ul>
               <li class="first_item"><a href="int_eng.html" target="_self" title="My interests about many things">Interests</a></li>
               <li><a href="tech_eng.html" target="_self" title="Technology I'm interested in">Technology</a></li>
+              <li><a href="audio_eng.html" target="_self" title="Free music I like a lot">Free music</a></li>
               <li class="last_item"><a href="videos_eng.html" target="_self" title="Videos I see almost every day">Videos I like</a></li>          
               </ul></li>         
               <li title="The stories I like"><div class="buttonbg" style="width: 69px;"><a href="stories_eng.html" target="_self">Stories</a></div></li>
@@ -47,6 +48,7 @@
               <ul>
               <li class="first_item"><a href="int_nor.html" target="_self" title="Mine interesser og ting">Interesser</a></li>
               <li><a href="tech_nor.html" target="_self" title="Teknologi jeg er interessert i">Teknologi</a></li>
+              <li><a href="audio_nor.html" target="_self" title="Gratis musikk jeg hører på">Gratis musikk</a></li>
               <li class="last_item"><a href="videos_nor.html" target="_self" title="Videoer jeg ser nesten hver dag">Videoer jeg liker</a></li>          
               </ul></li>              
             <li title="Historier jeg liker"><div class="buttonbg" style="width: 77px;"><a href="stories_nor.html" target="_self">Historier</a></div></li>

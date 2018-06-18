@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+	<english lang="en"><![CDATA[
+              <h3>Beamship - Radioactivity cover from Kraftwerk</h3>
+              <audio controls>
+                <source src="../audio/radio_activity.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+              <p>This is from a sample CD. It was released in 2004 </p>
+              <h3>Beatjunkie - DnB Panacea 1</h3>
+              <audio controls>
+                <source src="../audio/beatjunkie.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+              <p>Downloaded from SoundClick</p>
+              
+    
+    ]]>
+	</english>
+	<norwegian lang="no"><![CDATA[
+               <h3>Beamship - Radioactivity cover fra Kraftwerk</h3>
+              <audio controls>
+                <source src="../audio/radio_activity.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+              <p>Dette er fra en prøve-CD. Den ble utgitt i 2004 </p>
+              <h3>Beatjunkie - DnB Panacea 1</h3>
+              <audio controls>
+                <source src="../audio/beatjunkie.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+              <p>Lastet ned fra SoundClick</p>
+  ]]>
+	</norwegian>
+</text>
