@@ -13,6 +13,12 @@
               Your browser does not support the audio element.
               </audio> 
               <p>Downloaded from SoundClick</p>
+              <h3>Phil Soren - Running mix 58:43 long</h3>
+              <audio controls>
+                <source src="../audio/soren.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+              <p>Downloaded from SoundClick</p>
               
     
     ]]>
@@ -30,6 +36,12 @@
               Your browser does not support the audio element.
               </audio> 
               <p>Lastet ned fra SoundClick</p>
+              <h3>Phil Soren - Running mix 58:43 lang</h3>
+              <audio controls>
+                <source src="../audio/soren.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+              <p>Lastet ned fra  SoundClick</p>
   ]]>
 	</norwegian>
 </text>

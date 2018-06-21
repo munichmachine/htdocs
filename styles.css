@@ -90,16 +90,16 @@ clear: both;
 h1,h2,h3,h4,h5,h6 {
 font-weight: bold;
 clear: both;
-color: #8b7733;
+color: #917c37;
 }
 
 a:link, a:visited {
-color:#292661;
+color:rgb(102, 81, 23);
 text-decoration: none;
 }
 
 a:hover, a:active {
-color: #333;
+color:rgb(100, 86, 46);
 text-decoration: underline;
 }
 
@@ -302,4 +302,11 @@ color: #333;
 figure {
 text-decoration: none;
 cursor: default;
+}
+
+div.sticky {
+	background-color: #D6C99E;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }

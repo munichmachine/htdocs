@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
-	<english lang="en"><![CDATA[<h5>Pages here will be different from the Norwegian page, because local things isn't that interesting </h5>
+	<english lang="en"><![CDATA[<div class="sticky"><h5>Pages here will be different from the Norwegian page, because local things isn't that interesting </h5></div>
 <h2>System crash Wordpress errors</h2>
 <h4>Monday, June 18, 2018</h4>
 Data crash, Wordpress is not trusted !. Lost categories and new posts
@@ -253,7 +253,7 @@ More about this later<br>
 <br>
 	]]>
 	</english>
-<norwegian lang="no"><![CDATA[<h5>Sider her vil være forskjellige fra den norske siden, fordi lokale ting ikke er så interessante</h5>
+<norwegian lang="no"><![CDATA[<div class="sticky"><h5>Sider her vil være forskjellige fra den norske siden, fordi lokale ting ikke er så interessante</h5></div>
 <h2>Systemkrasj Wordpress feiler</h2>
 <h4>Mandag 18 juni 2018</h4>
 Datakrasj, Wordpress er ikke til &aring; stole p&aring;!.
